@@ -23,7 +23,7 @@ export function Home() {
           />
 
           <datalist id="task-suggestions">
-            <option value="Projeto1" />
+            <option value="teste final" />
             <option value="Projeto2" />
             <option value="Projeto3" />
             <option value="Banana" />
